@@ -1,4 +1,6 @@
-using erzeTruck.Data;
+global using erzeTruck.Data;
+global using erzeTruck.Model;
+global using erzeTruck.Services.UserServices;
 using Microsoft.EntityFrameworkCore;
 
 
